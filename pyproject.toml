@@ -1,0 +1,17 @@
+[project]
+name = "p300-oddball"
+version = "0.1.0"
+description = "Minimal P300 oddball EEG analysis"
+requires-python = ">=3.10"
+dependencies = [
+    "mne",
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "pandas",
+    "scikit-learn",
+    "jupyter"
+]
+
+[tool.uv]
+dev-dependencies = []
