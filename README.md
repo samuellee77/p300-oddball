@@ -5,7 +5,7 @@
 ### 1. Clone repo
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/samuellee77/p300-oddball
 cd p300-oddball
 ```
 
